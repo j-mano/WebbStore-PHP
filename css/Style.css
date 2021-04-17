@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+
+#ContantBody{
+    background-color: blue;
+}
+
+#ContantBody:hover{
+    box-shadow: darkgoldenrod;
+}
+
+#ProductCard{
+    background-color: wheat;
+    height: 5em;
+    width: 20%;
+    text-align: center;
+    border-radius: 2px;
+}
+
+#ProductCard:hover{
+    box-shadow: darkgoldenrod;
+    width: 21%;
+    border-radius: 5px;
+}
+
+footer{
+    background-color: cadetblue;
+}
+
